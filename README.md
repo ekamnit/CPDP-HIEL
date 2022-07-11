@@ -28,6 +28,7 @@ Please follow this sequence to replicate the work.
 2. Select all the code and click on _run_ to define the required functions for the experimentation
 
 **CPDP using HIEL**
+
 The following procedure is similar for all the projects in the three repositories
 1. Chage the directory to /Programs/PROMISE/ and open any program
 2. For each target project, add details to the _targetData_ and then run the entire code to train and classification using probabilistic weighted majority voting approach.
@@ -42,4 +43,4 @@ The following procedure is similar for all the projects in the three repositorie
 4. Clink on _run_ to perform the required significance tests.
 
 **Miscellaneous Results**
-Access to the CPDP-Results.xlsx to access all the results of our work along with the Miscellaneous results.
+Access to the CPDP-Review-Results.xlsx.xlsx to access all the results of our work along with the Miscellaneous results.
