@@ -43,4 +43,4 @@ The following procedure is similar for all the projects in the three repositorie
 4. Clink on _run_ to perform the required significance tests.
 
 **Miscellaneous Results**
-Access to the CPDP-Review-Results.xlsx.xlsx to access all the results of our work along with the Miscellaneous results.
+Open the CPDP-Review-Results.xlsx.xlsx to access all the results of our work along with the Miscellaneous results.
